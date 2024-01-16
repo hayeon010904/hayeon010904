@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Hi%20%20yeom!&fontSize=70&animation=fadeIn&fontColor=random)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=150&section=header&text=Hi%20%20yeom!&fontSize=70&animation=fadeIn&fontColor=random)
 <!--
 **hayeon010904/hayeon010904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
